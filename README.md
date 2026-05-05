@@ -1,4 +1,4 @@
-# taller_ahorcado
+# Taller_ahorcado
 Repositorio para realizar el taller del juego del ahorcado
 
 ## 🫂 Integrantes:
