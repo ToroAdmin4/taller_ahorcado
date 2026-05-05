@@ -7,7 +7,7 @@ Repositorio para realizar el taller del juego del ahorcado
 -Felipe Londoño Ospina
 
 ## 📚 Descripcion general
-este repositorio tendra la solucion al taller del mundial de futbol 2026, donde se desarrollara en java un programa donde se vean banderas, informacion y jugadores de los equipos participantes del mundial
+este repositorio tendra la solucion al taller del juego del ahorcado, con su arquitectura, archivos, clases, codigo, arte ASCII y EasterEgg.
 
 ## ⚽ Banderas 
 Se implementara la visualizacion de las banderas de los 4 paises del grupo inicial, parte, se diseñara un algoritmo que reciba un factor de escala para dibujar en 4 tamaños: Grande, mediano, pequeño e icono
