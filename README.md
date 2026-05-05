@@ -7,19 +7,19 @@ Repositorio para realizar el taller del juego del ahorcado
 -Felipe Londoño Ospina
 
 ## 📚 Descripcion general
-este repositorio tendra la solucion al taller del juego del ahorcado, con su arquitectura, archivos, clases, codigo, arte ASCII y EasterEgg.
+este repositorio tendra la solucion al taller del juego del ahorcado, con su arquitectura, archivos, metodos, codigo, arte ASCII y EasterEgg.
 
-## ⚽ Banderas 
-Se implementara la visualizacion de las banderas de los 4 paises del grupo inicial, parte, se diseñara un algoritmo que reciba un factor de escala para dibujar en 4 tamaños: Grande, mediano, pequeño e icono
+## ⚽ Clases
+Se implementaran las clases y archivos de datos especificados en la guia del taller para la elaboracion del codigo
 
-## 📊 Posiciones de los equipos
-Se construira una matriz para representar la tabla de posiciones del mundial, con su contenido editable y actualizable.
+## 📊 Archivo CSV y su lectura
+Se construira un archivo CSV que contenga todas las categorias y palabras que seran usadas mas adelante en el juego, aparte de usar el metodo necesario para que el codigo lea este archivo
 
-## 😻 Calendario 
-Usando arreglos y matrices, se estructurara el calendario de los enfrentamientos y sus fechas de todo el mundial. El usuario podra ver todos los partidos por grupo y ver la hora de un partido especifico
+## 😻 Logica del juego
+El usuario eligira una categoria del menu y se seleccionara una palabra al azar de esa categoria, se iran ingresando letras por turnos y el juego se acaba cuando el usuario adivine la palabra o cuando el usuario acumule 6 errores
 
-## 🌐 Colaboracion global 
-Todo el salon colaborara para obtener toda la informacion necesaria para la elaboracion de este taller.
+## 🌐 Arte ASCII
+Se definiran los 7 estados del muñeco del juego del ahorcado que seran progresivos dependiendo del número de errores del usuario
 
-## 💪 Consultar informacion 
-Por último, se implementara una funcionalidad que permita consultar información de un país, como su capital, jugadores principales y apariciones en copas del mundo.
+## 💪 Funciones y EasterEgg
+Por último, todo el codigo se separará mediante funciones, habiendo funciones para cada apartado del codigo, ademas, se implementara un EasterEgg al cual se podra acceder mediante una palabra secreta...
