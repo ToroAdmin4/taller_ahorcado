@@ -4,7 +4,7 @@ Repositorio para realizar el taller del juego del ahorcado
 ## 🫂 Integrantes:
 -Juan Andres Vallejo
 -Jerónimo Toro 
--Felipe
+-Felipe Londoño Ospina
 
 ## 📚 Descripcion general
 este repositorio tendra la solucion al taller del mundial de futbol 2026, donde se desarrollara en java un programa donde se vean banderas, informacion y jugadores de los equipos participantes del mundial
