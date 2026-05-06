@@ -25,6 +25,8 @@ Se implementaran las clases y archivos de datos especificados en la guia del tal
 ## 📊 Archivo CSV y su lectura
 Se construira un archivo CSV que contenga todas las categorias y palabras que seran usadas mas adelante en el juego, aparte de usar el metodo necesario para que el codigo lea este archivo
 
+---
+
 ## 😻 Logica del juego
 El usuario eligira una categoria del menu y se seleccionara una palabra al azar de esa categoria, se iran ingresando letras por turnos y el juego se acaba cuando el usuario adivine la palabra o cuando el usuario acumule 6 errores
 
