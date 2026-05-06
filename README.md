@@ -15,6 +15,8 @@ Repositorio para realizar el taller del juego del ahorcado
 ## 📚 Descripcion general
 Este repositorio tendra la solucion al taller del juego del ahorcado, con su arquitectura, archivos, metodos, codigo, arte ASCII y EasterEgg.
 
+---
+
 ## ⚽ Clases
 Se implementaran las clases y archivos de datos especificados en la guia del taller para la elaboracion del codigo
 
