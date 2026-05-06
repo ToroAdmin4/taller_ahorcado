@@ -30,6 +30,8 @@ Se construira un archivo CSV que contenga todas las categorias y palabras que se
 ## 😻 Logica del juego
 El usuario eligira una categoria del menu y se seleccionara una palabra al azar de esa categoria, se iran ingresando letras por turnos y el juego se acaba cuando el usuario adivine la palabra o cuando el usuario acumule 6 errores
 
+---
+
 ## 🌐 Arte ASCII
 Se definiran los 7 estados del muñeco del juego del ahorcado que seran progresivos dependiendo del número de errores del usuario
 
