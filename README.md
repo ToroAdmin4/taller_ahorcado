@@ -35,5 +35,7 @@ El usuario eligira una categoria del menu y se seleccionara una palabra al azar 
 ## 🌐 Arte ASCII
 Se definiran los 7 estados del muñeco del juego del ahorcado que seran progresivos dependiendo del número de errores del usuario
 
+---
+
 ## 💪 Funciones y EasterEgg
 Por último, todo el codigo se separará mediante funciones, habiendo funciones para cada apartado del codigo, ademas, se implementara un EasterEgg al cual se podra acceder mediante una palabra secreta...
