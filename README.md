@@ -20,6 +20,8 @@ Este repositorio tendra la solucion al taller del juego del ahorcado, con su arq
 ## ⚽ Clases
 Se implementaran las clases y archivos de datos especificados en la guia del taller para la elaboracion del codigo
 
+---
+
 ## 📊 Archivo CSV y su lectura
 Se construira un archivo CSV que contenga todas las categorias y palabras que seran usadas mas adelante en el juego, aparte de usar el metodo necesario para que el codigo lea este archivo
 
