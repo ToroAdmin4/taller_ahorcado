@@ -10,6 +10,8 @@ Repositorio para realizar el taller del juego del ahorcado
 
 -Felipe Londoño Ospina
 
+---
+
 ## 📚 Descripcion general
 Este repositorio tendra la solucion al taller del juego del ahorcado, con su arquitectura, archivos, metodos, codigo, arte ASCII y EasterEgg.
 
